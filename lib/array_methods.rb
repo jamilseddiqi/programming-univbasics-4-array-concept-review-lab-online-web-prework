@@ -11,6 +11,12 @@ find_max_value = [1,2,1,3,4,3,5,4,3,2,1])
 find_max_value.array.max
 end
 find_max_value
+
+def find_min_value(array)
+find_min_value = [1,2,1,3,4,3,5,4,3,2,1])
+find_min_value.array.min
+end
+find_min_value
 #
 # def find_min_value(array)
 #   # Add your solution here
